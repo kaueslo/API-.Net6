@@ -6,7 +6,6 @@ namespace ProjetoOmnion.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class EnderecoController : ControllerBase
     {
         #region Propriedades

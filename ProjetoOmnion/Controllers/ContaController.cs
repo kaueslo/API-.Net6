@@ -7,7 +7,6 @@ namespace ProjetoOmnion.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class ContaController : ControllerBase
     {
         #region Propriedades
