@@ -1,0 +1,17 @@
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\bin\Debug\net6.0\Servicos.deps.json
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\bin\Debug\net6.0\Servicos.dll
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\bin\Debug\net6.0\ref\Servicos.dll
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\bin\Debug\net6.0\Servicos.pdb
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\bin\Debug\net6.0\Domain.dll
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\bin\Debug\net6.0\Repositorio.dll
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\bin\Debug\net6.0\Domain.pdb
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\bin\Debug\net6.0\Repositorio.pdb
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\obj\Debug\net6.0\Servicos.csproj.AssemblyReference.cache
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\obj\Debug\net6.0\Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\obj\Debug\net6.0\Servicos.AssemblyInfoInputs.cache
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\obj\Debug\net6.0\Servicos.AssemblyInfo.cs
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\obj\Debug\net6.0\Servicos.csproj.CoreCompileInputs.cache
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\obj\Debug\net6.0\Servicos.csproj.CopyComplete
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\obj\Debug\net6.0\Servicos.dll
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\obj\Debug\net6.0\ref\Servicos.dll
+C:\Users\kaues\OneDrive\Área de Trabalho\Projeto_Omnion\ProjetoOmnion\Servicos\obj\Debug\net6.0\Servicos.pdb
